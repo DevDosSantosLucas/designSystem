@@ -1,0 +1,19 @@
+ mkdir nome_pasta
+ cd packages/tokens/
+    npm init -y
+    npm  i -D typescript
+    npx tsc --init (cria um tsconfig.json)
+    npm i tsup -D (converte o código em um package JS  que vai poder ser carregado por outra aplicação)
+
+cd package/react
+    npm init -y
+    npm  i -D typescript
+    npm i tsup -D 
+
+cd (node modules global) 
+  npm init -y
+
+cd ts-config
+  npm init -y
+
+cd eslint-config
