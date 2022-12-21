@@ -17,3 +17,14 @@ cd ts-config
   npm init -y
 
 cd eslint-config
+  npm i -D eslint @rocketseat/eslint-config
+
+cd react & cd tokens
+  npm run lint 
+  msg normal : Warning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.
+
+cd react
+  npm i -D react @types/react @types/react-dom
+
+cd react
+  npm i @stitches/react
