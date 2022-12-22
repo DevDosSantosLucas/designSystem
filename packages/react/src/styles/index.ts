@@ -1,4 +1,4 @@
-/* eslint-disable prettier/prettier */
+
 import { colors, fontSizes,fonts,radii, fontWeights, lineHeights, space } from '@ignite-ui/tokens'
 import {createStitches,defaultThemeMap} from '@stitches/react'
 
